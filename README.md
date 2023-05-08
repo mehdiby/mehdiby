@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_107791-611.jpg?w=1060&t=st=1669294988~exp=1669295588~hmac=8f2bfa09c7380966c4a5023381278409c0cfcee82625ff9481a712ed45e69ae2)]
+![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_107791-611.jpg?w=1060&t=st=1669294988~exp=1669295588~hmac=8f2bfa09c7380966c4a5023381278409c0cfcee82625ff9481a712ed45e69ae2)
 <h1 align="center">Hi 👋, I'm Mehdi Ben Yarou</h1>
 <h3 align="center">An aspiring Data scientist from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
